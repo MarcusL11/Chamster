@@ -6,7 +6,7 @@
 - Traits do come in differnet rarity levels; Common, Rare, Epic, Legendary
 - Its up to you to trade / mint for the rarity you want or for the character you like
 - Chamsters Holders are granted access to a private channel on our Discord where acticvities, voting, and perks will become available    
-- A presale for the first round will be in the form of Chia Asset Tokens (CAT); Chamster Tokenswill be  exchangeable for a Chamster NFT 
+- A presale for the first round will be in the form of Chia Asset Tokens (CAT); Chamster Tokens will be exchangeable for a Chamster NFT 
 - This round will have limited supplies as it is the Founder's Series 
 
 ## **Chamster Supply** 
