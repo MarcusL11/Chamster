@@ -19,21 +19,19 @@
 ### Clothes:
 Common
 
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/eyes_common_standard.png" alt="Base" style="height: 100px; width:100px;"/>
 
 Rare
 
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/eyes_rare_shut.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/eyes_rare_happy.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/eyes_rare_lazy.png" alt="Base" style="height: 100px; width:100px;"/>
 
 Epic
 
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/eyes_epic_no_fear.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/eyes_epic_angry.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/eyes_epic_girl.png" alt="Base" style="height: 100px; width:100px;"/>
 
 ### Eyes:
 - Common
