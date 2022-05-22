@@ -47,6 +47,10 @@ Epic
 
 - Epic
 
+<img src="Assets/mouth_epic_chia.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/mouth_epic_leaf.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/mouth_epic_carrot.png" alt="Base" style="height: 200px; width:200px;"/>
+
 ### Hats:
 - Common
 
