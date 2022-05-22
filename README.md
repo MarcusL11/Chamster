@@ -16,7 +16,7 @@
 
 ## **Traits & Rarity**
 
-### Clothes:
+### Eyes:
 Common
 
 <img src="Assets/eyes_common_standard.png" alt="Base" style="height: 100px; width:100px;"/>
@@ -33,24 +33,23 @@ Epic
 <img src="Assets/eyes_epic_angry.png" alt="Base" style="height: 100px; width:100px;"/>
 <img src="Assets/eyes_epic_girl.png" alt="Base" style="height: 100px; width:100px;"/>
 
-### Eyes:
+### Mouth:
 - Common
 
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/mouth_common_standard.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/mouth_common_standard_1.png" alt="Base" style="height: 100px; width:100px;"/>
 
 - Rare
 
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/mouth_rare_bubble_gum.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/mouth_rare_oh.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/mouth_rare_cheese.png" alt="Base" style="height: 100px; width:100px;"/>
 
 - Epic
 
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/mouth_epic_leaf.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/mouth_epic_chia.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/mouth_epic_carrot.png" alt="Base" style="height: 100px; width:100px;"/>
 
 ### Hats:
 - Common
@@ -71,24 +70,6 @@ Epic
 <img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 <img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 
-### Mouth:
-- Common
-
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-
-- Rare
-
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-
-- Epic
-
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 
 ## **TEASER: Legendary Chamsters**
 
