@@ -47,35 +47,16 @@ Epic
 
 - Epic
 
-<img src="Assets/mouth_epic_leaf.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/mouth_epic_chia.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/mouth_epic_carrot.png" alt="Base" style="height: 100px; width:100px;"/>
-
 ### Hats:
 - Common
 
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-
 - Rare
 
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-
 - Epic
-
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 
 
 ## **TEASER: Legendary Chamsters**
 
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 
 # **Development Stages**
 
