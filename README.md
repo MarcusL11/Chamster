@@ -4,7 +4,7 @@
 - Chamsters are PFP art collection of hamsters living on the Chia Blockchain.
 - Each Chamster carries a set of traits that are algorithmically generated 
 - Traits do come in differnet rarity levels; Common, Rare, Epic, Legendary
-- Its up to you to trade / mint for the rarity you want or for the character you like
+- Its up to you to trade / mint for the rarity you want or the character you like
 - Chamsters Holders are granted access to a private channel on our Discord where acticvities, voting, and perks will become available    
 - A presale for the first round will be in the form of Chia Asset Tokens (CAT); Chamster Tokens will be exchangeable for a Chamster NFT 
 - This round will have limited supplies as it is the Founder's Series 
@@ -15,39 +15,21 @@
 - The remaining 270 Chamsters are ranked based on the rarity of the traits it carries      
 
 ## **Traits & Rarity**
-### Fur / Skin
-- Common
-
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-
-- Rare
-
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-
-- Epic
-
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 
 ### Clothes:
-- Common
+Common
 
 <img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 <img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 <img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 
-- Rare
+Rare
 
 <img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 <img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 <img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 
-- Epic
+Epic
 
 <img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
 <img src="Assets/Base_1.png" alt="Base" style="height: 100px; width:100px;"/>
