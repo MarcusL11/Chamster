@@ -23,27 +23,27 @@ Common
 
 Rare
 
-<img src="Assets/eyes_rare_shut.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/eyes_rare_happy.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/eyes_rare_lazy.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/eyes_rare_shut.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/eyes_rare_happy.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/eyes_rare_lazy.png" alt="Base" style="height: 200px; width:200px;"/>
 
 Epic
 
-<img src="Assets/eyes_epic_no_fear.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/eyes_epic_angry.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/eyes_epic_girl.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/eyes_epic_no_fear.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/eyes_epic_angry.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/eyes_epic_girl.png" alt="Base" style="height: 200px; width:200px;"/>
 
 ### Mouth:
 - Common
 
-<img src="Assets/mouth_common_standard.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/mouth_common_standard_1.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/mouth_common_standard.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/mouth_common_standard_1.png" alt="Base" style="height: 200px; width:200px;"/>
 
 - Rare
 
-<img src="Assets/mouth_rare_bubble_gum.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/mouth_rare_oh.png" alt="Base" style="height: 100px; width:100px;"/>
-<img src="Assets/mouth_rare_cheese.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/mouth_rare_bubble_gum.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/mouth_rare_oh.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/mouth_rare_cheese.png" alt="Base" style="height: 200px; width:200px;"/>
 
 - Epic
 
