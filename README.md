@@ -19,7 +19,7 @@
 ### Eyes:
 Common
 
-<img src="Assets/eyes_common_standard.png" alt="Base" style="height: 100px; width:100px;"/>
+<img src="Assets/eyes_common_standard.png" alt="Base" style="height: 200px; width:100px;"/>
 
 Rare
 
