@@ -13,11 +13,19 @@
 - A limited supply of 300 Chamstsers will be available 
 - 30 of the 270 Chamsters are Legendary with several 1/1 traits
 - The remaining 270 Chamsters are ranked based on the rarity of all its traits   
-## ** Sample of Legendary Chamsters**
 
-## **Samples of Traits **
+## **Sample of Legendary Chamsters**
+
+<img src="Assets/legendary_chamster_ninja.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/legendary_chamster_btc.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/legendary_chamster_zombie.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/legendary_chamster_spaceman.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/legendary_chamster_cheeta.png" alt="Base" style="height: 150px; width:150px;"/>
+
+## **Samples of Traits**
 
 ### Eyes:
+
 Common
 
 <img src="Assets/eyes_common_standard.png" alt="Base" style="height: 150px; width:150px;"/>
@@ -70,19 +78,18 @@ Epic
 Common
 
 <img src="Assets/clothes_common_shirt.png" alt="Base" style="height: 150px; width:150px;"/>
-<img src="Assets/clothes_common_sweater.png.png" alt="Base" style="height: 150px; width:150px;"/>
-<img src="Assets/hat_rare_flower.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/clothes_common_sweater.png" alt="Base" style="height: 150px; width:150px;"/>
 
 Rare
 
 <img src="Assets/clothes_rare_jacket.png" alt="Base" style="height: 150px; width:150px;"/>
-<img src="Assets/clothes_rare_orange.png.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/clothes_rare_orange.png" alt="Base" style="height: 150px; width:150px;"/>
 <img src="Assets/clothes_rare_overalls.png" alt="Base" style="height: 150px; width:150px;"/>
 
 Epic
 
 <img src="Assets/clothes_epic_duncan.png" alt="Base" style="height: 150px; width:150px;"/>
-<img src="Assets/clothes_epic_scarf.png.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/clothes_epic_scarf.png" alt="Base" style="height: 150px; width:150px;"/>
 <img src="Assets/clothes_epic_turtle.png" alt="Base" style="height: 150px; width:150px;"/>
 
 # **Development Stages**
