@@ -5,62 +5,85 @@
 - Each Chamster carries a set of traits that are algorithmically generated 
 - Traits do come in differnet rarity levels; Common, Rare, Epic, Legendary
 - Its up to you to trade / mint for the rarity you want or the character you like
-- Chamsters Holders are granted access to a private channel on our Discord where acticvities, voting, and perks will become available    
+- Chamsters Holders are granted access to a private channel on our Discord where activities, voting, and perks will become available    
 - A presale for the first round will be in the form of Chia Asset Tokens (CAT); Chamster Tokens will be exchangeable for a Chamster NFT 
 - This round will have limited supplies as it is the Founder's Series 
 
 ## **Chamster Supply** 
-- A limited supply of 300 Chamstsers will be availble 
-- 30 of the 270 Chamsters are Legendary with features 1/1 traits
-- The remaining 270 Chamsters are ranked based on the rarity of the traits it carries      
+- A limited supply of 300 Chamstsers will be available 
+- 30 of the 270 Chamsters are Legendary with several 1/1 traits
+- The remaining 270 Chamsters are ranked based on the rarity of all its traits   
+## ** Sample of Legendary Chamsters**
 
-## **Traits & Rarity**
+## **Samples of Traits **
 
 ### Eyes:
 Common
 
-<img src="Assets/eyes_common_standard.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/eyes_common_standard.png" alt="Base" style="height: 150px; width:150px;"/>
 
 Rare
 
-<img src="Assets/eyes_rare_shut.png" alt="Base" style="height: 200px; width:200px;"/>
-<img src="Assets/eyes_rare_happy.png" alt="Base" style="height: 200px; width:200px;"/>
-<img src="Assets/eyes_rare_lazy.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/eyes_rare_shut.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/eyes_rare_happy.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/eyes_rare_lazy.png" alt="Base" style="height: 150px; width:150px;"/>
 
 Epic
 
-<img src="Assets/eyes_epic_no_fear.png" alt="Base" style="height: 200px; width:200px;"/>
-<img src="Assets/eyes_epic_angry.png" alt="Base" style="height: 200px; width:200px;"/>
-<img src="Assets/eyes_epic_girl.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/eyes_epic_no_fear.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/eyes_epic_angry.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/eyes_epic_girl.png" alt="Base" style="height: 150px; width:150px;"/>
 
 ### Mouth:
-- Common
+Common
 
-<img src="Assets/mouth_common_standard.png" alt="Base" style="height: 200px; width:200px;"/>
-<img src="Assets/mouth_common_standard_1.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/mouth_common_standard.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/mouth_common_standard_1.png" alt="Base" style="height: 150px; width:150px;"/>
 
-- Rare
+Rare
 
-<img src="Assets/mouth_rare_bubble_gum.png" alt="Base" style="height: 200px; width:200px;"/>
-<img src="Assets/mouth_rare_oh.png" alt="Base" style="height: 200px; width:200px;"/>
-<img src="Assets/mouth_rare_cheese.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/mouth_rare_bubble_gum.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/mouth_rare_oh.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/mouth_rare_cheese.png" alt="Base" style="height: 150px; width:150px;"/>
 
-- Epic
+Epic
 
-<img src="Assets/mouth_epic_chia.png" alt="Base" style="height: 200px; width:200px;"/>
-<img src="Assets/mouth_epic_leaf.png" alt="Base" style="height: 200px; width:200px;"/>
-<img src="Assets/mouth_epic_carrot.png" alt="Base" style="height: 200px; width:200px;"/>
+<img src="Assets/mouth_epic_chia.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/mouth_epic_leaf.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/mouth_epic_carrot.png" alt="Base" style="height: 150px; width:150px;"/>
 
 ### Hats:
-- Common
 
-- Rare
+Rare
 
-- Epic
+<img src="Assets/hat_rare_back_cap.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/hat_rare_red_bandana.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/hat_rare_flower.png" alt="Base" style="height: 150px; width:150px;"/>
 
+Epic
 
-## **TEASER: Legendary Chamsters**
+<img src="Assets/hat_epic_top_hat.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/hat_epic_head_phones.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/hat_epic_daddy_cap.png" alt="Base" style="height: 150px; width:150px;"/>
 
+### Clothes:
+Common
+
+<img src="Assets/clothes_common_shirt.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/clothes_common_sweater.png.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/hat_rare_flower.png" alt="Base" style="height: 150px; width:150px;"/>
+
+Rare
+
+<img src="Assets/clothes_rare_jacket.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/clothes_rare_orange.png.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/clothes_rare_overalls.png" alt="Base" style="height: 150px; width:150px;"/>
+
+Epic
+
+<img src="Assets/clothes_epic_duncan.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/clothes_epic_scarf.png.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/clothes_epic_turtle.png" alt="Base" style="height: 150px; width:150px;"/>
 
 # **Development Stages**
 
