@@ -96,16 +96,13 @@ Epic
 
 ## **Chamster Tokens**
 - The presale of 300 Chamster tokens (CHM) will be available on the Chia decentralized exchange Offerbin.io (https://offerbin.io)
-- Only 300 Tokens will be issued for this Founder's Series.
-- The price will be 2 XCH per CHM Tokens
+- Only 200 Tokens will be issued for this Founder's Series.
+- The price will be 1 XCH per CHM Tokens
 - CHM Tokens will be used to mint Chamster NFTs
 - Chamster Tokens holders will be grated access to a private channel on our Discord for Pre-Mint discussions and Q&A on the project
 
-## **Chamster NFT**
-- Chamster website will be updated to allow Chamster Token exchange for Chamster NFT
+## **Development**
 - Owners will be able to customize the royalty reward address  
-- Rarity chart of all Chamsters wil to be available on the website after all Chamsters have been minted  
-- A Private channel for Chamster Holders will be opened to participate in activities and games for weekly rewards 
-
-## **Chamster Future Development**
-- TBA
+- Rarity chart of all Chamsters will be available on the website after all Chamsters have been minted  
+- A Private channel for Chamster Holders will be opened to participate in weekly games and activities with rewards 
+- CHM Tokens will rewareded for winning weekly activities    
