@@ -21,6 +21,7 @@
 <img src="Assets/legendary_chamster_zombie.png" alt="Base" style="height: 150px; width:150px;"/>
 <img src="Assets/legendary_chamster_spaceman.png" alt="Base" style="height: 150px; width:150px;"/>
 <img src="Assets/legendary_chamster_cheeta.png" alt="Base" style="height: 150px; width:150px;"/>
+<img src="Assets/legendary_chamster_drac.png" alt="Base" style="height: 150px; width:150px;"/>
 
 ## **Samples of Traits**
 
