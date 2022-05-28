@@ -1,6 +1,8 @@
 # **Chamsters**
 ## **Background**
 
+300 Hamsters on the chia blockchain on a quest to finding sunflower seeds.   
+
 ## **Chamster Tokens**
 - The presale of 300 Chamster tokens (CHM) will be available on the Chia decentralized exchange Offerbin.io (https://offerbin.io)
 - Only 200 Tokens will be issued for this Founder's Series
