@@ -16,6 +16,9 @@
 - Only 200 Tokens will be issued for this Founder's Series
 - The price will be 1 XCH per CHM Tokens
 - Chamster Tokens holders will be granted early access to Chamster private Discord channel for Pre-Mint discussions and Q&A on the project
+- Asset ID (Coin ID): 760de79f6d5a978feff1b81035c0720b26cde4254f330cf47fd8705425bf0dd7
+- Asset Name (Coin Name): Chamster Token
+- Asset Abbreviation: CHM
 
 ## **CHM Offer Files Exchange**
 - https://hash.green/
