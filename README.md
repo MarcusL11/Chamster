@@ -1,33 +1,32 @@
 # **Chamsters**
 ## **Background**
-
-300 Hamsters on the chia blockchain on a quest to finding sunflower seeds.   
+- 200 Hamsters on the chia blockchain with a quest to finding sunflower seeds. 
+- Chia + Hamsters = Chamsters
+- Chamsters are PFP hamster art collection living on the Chia Blockchain
+- Each Chamster carries a set of traits that are algorithmically generated 
+- Traits come in differnet rarity levels; Common, Rare, Epic, and Legendary
+- Its up to you to trade / mint for the rarity you want or the character you like
+- A presale for the first round will be in the form of Chia Asset Tokens (CAT); Chamster Tokens will be exchangeable for a Chamster NFT 
+- This round will have limited supply of 200 Chamsters as it is the Founder's Series  
+- 30 of the 200 Chamsters are Legendary with several 1/1 traits
+- The remaining 170 Chamsters are ranked based on the rarity of all its traits   
 
 ## **Chamster Tokens**
-- The presale of 300 Chamster tokens (CHM) will be available on the Chia decentralized exchange Offerbin.io (https://offerbin.io)
+- The presale of 200 Chamster tokens (CHM) will be available from Chia Offer files on the Chia decentralized exchange
 - Only 200 Tokens will be issued for this Founder's Series
 - The price will be 1 XCH per CHM Tokens
-- CHM Tokens will be used to mint Chamster NFTs
-- Chamster Tokens holders will be grated access to a private channel on our Discord for Pre-Mint discussions and Q&A on the project
+- Chamster Tokens holders will be granted early access to Chamster private Discord channel for Pre-Mint discussions and Q&A on the project
+
+## **CHM Offer Files Exchange**
+- https://hash.green/
+- https://dexie.space/
+- https://offerbin.io/
+- https://offerpool.io/
 
 ## **Development**
-- Owners will be able to customize the royalty reward address  
+- Owners will be able to customize the royalty reward address on their Chamster  
 - Rarity chart of all Chamsters will be available on the website after all Chamsters have been minted  
 - A Private channel for Chamster Holders will be opened to participate in weekly games and activities rewarding winners with CHM Tokens    
-
-## **Other Information**
-- Chia + Hamsters = Chamsters
-- Chamsters are PFP hamster art collection living on the Chia Blockchain.
-- Each Chamster carries a set of traits that are algorithmically generated 
-- Traits do come in differnet rarity levels; Common, Rare, Epic, Legendary
-- Its up to you to trade / mint for the rarity you want or the character you like
-- Chamsters Holders are granted access to a private channel on our Discord where activities, voting, and perks will become available    
-- A presale for the first round will be in the form of Chia Asset Tokens (CAT); Chamster Tokens will be exchangeable for a Chamster NFT 
-- This round will have limited supplies as it is the Founder's Series 
-- A limited supply of 300 Chamstsers will be available 
-- 30 of the 270 Chamsters are Legendary with several 1/1 traits
-- The remaining 270 Chamsters are ranked based on the rarity of all its traits   
-
 
 ## **Sample of Legendary Chamsters**
 
