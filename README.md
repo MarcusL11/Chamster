@@ -1,19 +1,18 @@
 # **Chamsters**
 ## **Background**
-- 200 Hamsters on the chia blockchain with a quest to finding sunflower seeds. 
+- 200 Hamsters on the chia blockchain with a quest to finding sunflower seeds 
 - Chia + Hamsters = Chamsters
 - Chamsters are PFP hamster art collection living on the Chia Blockchain
 - Each Chamster carries a set of traits that are algorithmically generated 
 - Traits come in differnet rarity levels; Common, Rare, Epic, and Legendary
-- Its up to you to trade / mint for the rarity you want or the character you like
-- A presale for the first round will be in the form of Chia Asset Tokens (CAT); Chamster Tokens will be exchangeable for a Chamster NFT 
-- This round will have limited supply of 200 Chamsters as it is the Founder's Series  
 - 30 of the 200 Chamsters are Legendary with several 1/1 traits
 - The remaining 170 Chamsters are ranked based on the rarity of all its traits   
 
 ## **Chamster Tokens**
+- A presale for the first round will be in the form of Chia Asset Tokens (CAT); Chamster Tokens will be exchangeable for a Chamster NFT 
+- This round will have limited supply of 200 Chamsters as it is the Founder's Series  
 - The presale of 200 Chamster tokens (CHM) will be available from Chia Offer files on the Chia decentralized exchange
-- Only 200 Tokens will be issued for this Founder's Series
+- Only 200 Tokens will be issued for this Founder's Series round
 - The price will be 1 XCH per CHM Tokens
 - Chamster Tokens holders will be granted early access to Chamster private Discord channel for Pre-Mint discussions and Q&A on the project
 - Asset ID (Coin ID): 760de79f6d5a978feff1b81035c0720b26cde4254f330cf47fd8705425bf0dd7
@@ -21,15 +20,22 @@
 - Asset Abbreviation: CHM
 
 ## **CHM Offer Files Exchange**
-- https://hash.green/
-- https://dexie.space/
-- https://offerbin.io/
-- https://offerpool.io/
+
+Initial 200 tokens release platform:
+- To be announced
+
+Secondary trading platform:
+
+https://hash.green/
+https://dexie.space/
+https://offerbin.io/
+https://offerpool.io/
 
 ## **Development**
 - Owners will be able to customize the royalty reward address on their Chamster  
 - Rarity chart of all Chamsters will be available on the website after all Chamsters have been minted  
-- A Private channel for Chamster Holders will be opened to participate in weekly games and activities rewarding winners with CHM Tokens    
+- A private channel for Chamster Holders will be opened to participate in weekly games and activities rewarding winners with CHM Tokens    
+- Chamster Merchandise 
 
 ## **Sample of Legendary Chamsters**
 
@@ -109,5 +115,9 @@ Epic
 <img src="Assets/clothes_epic_duncan.png" alt="Base" style="height: 150px; width:150px;"/>
 <img src="Assets/clothes_epic_scarf.png" alt="Base" style="height: 150px; width:150px;"/>
 <img src="Assets/clothes_epic_turtle.png" alt="Base" style="height: 150px; width:150px;"/>
+
+## Channels
+- Discord:  http://discord.gg/dBpchMFmzn
+- Twitter: https://twitter.com/chamster_chia 
 
 ## **FAQs**
