@@ -26,10 +26,10 @@ Initial 200 tokens release platform:
 
 Secondary trading platform:
 
-[Hash Green] 
-[Dexie]
-[Offerbin]
-[Offerpool]
+- [Hash Green] 
+- [Dexie]
+- [Offerbin]
+- [Offerpool]
 
 ## **Development**
 - Owners will be able to customize the royalty reward address on their Chamster  
