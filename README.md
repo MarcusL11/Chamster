@@ -26,16 +26,20 @@ Initial 200 tokens release platform:
 
 Secondary trading platform:
 
-https://hash.green/
-https://dexie.space/
-https://offerbin.io/
-https://offerpool.io/
+[Hash Green] 
+[Dexie]
+[Offerbin]
+[Offerpool]
 
 ## **Development**
 - Owners will be able to customize the royalty reward address on their Chamster  
 - Rarity chart of all Chamsters will be available on the website after all Chamsters have been minted  
 - A private channel for Chamster Holders will be opened to participate in weekly games and activities rewarding winners with CHM Tokens    
 - Chamster Merchandise 
+
+## Perks and Benefits "Utility"
+
+- Coming Sooon
 
 ## **Sample of Legendary Chamsters**
 
@@ -121,3 +125,10 @@ Epic
 - Twitter: https://twitter.com/chamster_chia 
 
 ## **FAQs**
+
+
+[Hash Green]: https://hash.green/
+[Dexie]: https://dexie.space/
+[Offerbin]: https://offerbin.io/
+[Offerpool]: https://offerpool.io/
+
