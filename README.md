@@ -1,45 +1,40 @@
 # **Chamsters**
+
 ## **Background**
-- 200 Hamsters on the chia blockchain with a quest to finding sunflower seeds 
-- Chia + Hamsters = Chamsters
-- Chamsters are PFP hamster art collection living on the Chia Blockchain
-- Each Chamster carries a set of traits that are algorithmically generated 
-- Traits come in differnet rarity levels; Common, Rare, Epic, and Legendary
-- 30 of the 200 Chamsters are Legendary with several 1/1 traits
-- The remaining 170 Chamsters are ranked based on the rarity of all its traits   
+- Hamsters on a quest to finding sunflower seeds & Chia Tokens. 
+- Chia + Hamsters = Chamsters.
+- Chamsters is a combination of PFP artwork collection and a Chia Farming Club on the Chia Blockchain.
+- Each Chamster carries a set of traits that are algorithmically generated.
+- Only Legendary Chamsters are custom made. 
+- Traits come in differnet rarity levels; Common, Rare, Epic, and Legendary.
+
+## **Chamster Chia Farming Club**
+- Chamsters NFT project will use funds to develop its own farm rewarding Chamster owners with XCH rewards.
+- We aim to help support the Chia Blockchain and its ecosystem as well as enabling new users to partake in farming rewards.
+
+## **Founder's Chamster Series**
+- Release date of the Chamter NFT will be annoucned after Chia's releases NFT1 Standard.  
+- A total of 200 Chamster NFT will be available for mint late June'22.
+- 30 of the 200 Chamsters are Legendary with several 1/1 traits.
+- The remaining 170 Chamsters are ranked based on the combination of rarity level on all its traits.
+- Founder's Series will develop the foundation of 800 TB Chamster's Chia Farm.
+- Funds will be set aside for further project utility development.     
 
 ## **Chamster Tokens**
 - A presale for the first round will be in the form of Chia Asset Tokens (CAT); Chamster Tokens will be exchangeable for a Chamster NFT 
-- This round will have limited supply of 200 Chamsters as it is the Founder's Series  
-- The presale of 200 Chamster tokens (CHM) will be available from Chia Offer files on the Chia decentralized exchange
-- Only 200 Tokens will be issued for this Founder's Series round
+- This round will have limited supply of 200 Tokens, used specifically for the founders NFT only. 
+- The presale of 200 Chamster tokens (CHM) will be available in the form of Chia Offer files
 - The price will be 1 XCH per CHM Tokens
-- Chamster Tokens holders will be granted early access to Chamster private Discord channel for Pre-Mint discussions and Q&A on the project
+- CHM Token holders will be granted early access to Chamster private Discord channel for Pre-Mint discussions and Q&A on the project
 - Asset ID (Coin ID): 760de79f6d5a978feff1b81035c0720b26cde4254f330cf47fd8705425bf0dd7
 - Asset Name (Coin Name): Chamster Token
 - Asset Abbreviation: CHM
 
-## **CHM Offer Files Exchange**
+## **CHM Offer Files**
+- Offer files of CHM will be availbale on [Dexie]
 
-Initial 200 tokens release platform:
-- To be announced
+## **For more information, join our Discord Channel:** [Chamster Discord Channel]
 
-Secondary trading platform:
-
-- [Hash Green] 
-- [Dexie]
-- [Offerbin]
-- [Offerpool]
-
-## **Development**
-- Owners will be able to customize the royalty reward address on their Chamster  
-- Rarity chart of all Chamsters will be available on the website after all Chamsters have been minted  
-- A private channel for Chamster Holders will be opened to participate in weekly games and activities rewarding winners with CHM Tokens    
-- Chamster Merchandise 
-
-## Perks and Benefits "Utility"
-
-- Coming Sooon
 
 ## **Sample of Legendary Chamsters**
 
@@ -126,9 +121,9 @@ Epic
 
 ## **FAQs**
 
-
+[Chamster Discord Channel]: https://discord.gg/Fz6fDhK3t9
 [Hash Green]: https://hash.green/
-[Dexie]: https://dexie.space/
+[Dexie]: https://dexie.space/](https://dexie.space/offers/760de79f6d5a978feff1b81035c0720b26cde4254f330cf47fd8705425bf0dd7/xch
 [Offerbin]: https://offerbin.io/
 [Offerpool]: https://offerpool.io/
 
