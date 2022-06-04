@@ -24,7 +24,7 @@
 - A presale for the first round will be in the form of Chia Asset Tokens (CAT); Chamster Tokens will be exchangeable for a Chamster NFT 
 - This round will have limited supply of 200 Tokens, used specifically for the founders NFT only. 
 - The presale of 200 Chamster tokens (CHM) will be available in the form of Chia Offer files
-- The price will be 1 XCH per CHM Tokens
+- The price will be 3 XCH per CHM Tokens
 - CHM Token holders will be granted early access to Chamster private Discord channel for Pre-Mint discussions and Q&A on the project
 - Asset ID (Coin ID): 760de79f6d5a978feff1b81035c0720b26cde4254f330cf47fd8705425bf0dd7
 - Asset Name (Coin Name): Chamster Token
