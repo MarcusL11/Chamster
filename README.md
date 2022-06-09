@@ -11,6 +11,7 @@
 ## **Chamster Chia Farming Club**
 - Chamsters NFT project will use funds to develop its own farm rewarding Chamster owners with XCH rewards.
 - We aim to help support the Chia Blockchain and its ecosystem as well as enabling new users to partake in farming rewards.
+- Check out Discord Channel for more information on the reward system. 
 
 ## **Founder's Chamster Series**
 - Release date of the Chamter NFT will be annoucned after Chia's releases NFT1 Standard.  
