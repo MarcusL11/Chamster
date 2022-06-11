@@ -34,7 +34,9 @@
 ## **CHM Offer Files**
 - Offer files of CHM will be availbale on [Dexie]
 
-## **For more information, join our Discord Channel:** [Chamster Discord Channel]
+## **For more information, join our Discord Channel:** 
+
+- [Chamster Discord Channel]
 
 ## **Sample of Legendary Chamsters**
 
@@ -120,6 +122,26 @@ Epic
 - Twitter: https://twitter.com/chamster_chia 
 
 ## **FAQs**
+Q: What is a CHM CAT token?
+A: 200 CHM CAT token was created and will be availble for purchase through offer files. For each 1 CHM, you’ll be able to redeem a random Chamster NFT during the mint dates.
+
+Q: How much is 1 CHM token?
+A: The pre-launch cost will be 1 XCH.
+
+Q: Where can I buy CHM CAT token?
+A: All CHM  tokens can be purchased on dexie (https://dexie.space/) 
+
+Q: What is the CHM  token ID?
+A: 760de79f6d5a978feff1b81035c0720b26cde4254f330cf47fd8705425bf0dd7 (https://www.taildatabase.com/tail/760de79f6d5a978feff1b81035c0720b26cde4254f330cf47fd8705425bf0dd7)
+
+Q: When is the mint date?
+A: We’re aim to launch when all the artworks are finished, we estimake around late OCT.
+
+Q: Where will the Chamster Farm be located?
+A: The growp has available office space that is suitable for Chamster Farm setup with appropriate environment and  supporting team.
+
+Q: When can I redeem my CHM token for an NFT?
+A: There will be a 1 month window after the official launch date where you will be able to exchange your CHM  token for a Chamster NFT. 
 
 [Chamster Discord Channel]: https://discord.gg/Fz6fDhK3t9
 [Hash Green]: https://hash.green/
